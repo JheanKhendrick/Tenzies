@@ -50,11 +50,12 @@ main {
 
 button{
   margin-top: 50px;
-  width: 92.16px;
-  height: 35.84px;
+  width: 100px;
+  height: 50px;
   background-color: #5035FF;
   color: #FFFFFF;
   border: none;
   cursor: pointer;
   border-radius: 5px;
+  font-size: 1.2rem;
 }
