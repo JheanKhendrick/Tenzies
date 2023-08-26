@@ -6,7 +6,7 @@ Tenzies is a simple game built using Vite and React where the objective is to ma
 
 ## Play now
 
-<a href="https://jhean-tenzies.netlify.app/" target="_blank">Play Now: Tenzies Game</a>
+[PLAY NOW: Tenzies Game](https://jhean-tenzies.netlify.app/")
 
 ## How to Play
 
