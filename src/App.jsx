@@ -10,7 +10,7 @@ function App() {
 
   const generateDieValue = () => {
 
-    const dieValueArray = ["😃", "😍", "😭", "🤑", "😇", "🥵"]
+    const dieValueArray = ["😂", "😍", "😭", "🤑", "😇", "🥵"]
     return {
       id: nanoid(),
       value: dieValueArray[Math.floor(Math.random() * 6)],
