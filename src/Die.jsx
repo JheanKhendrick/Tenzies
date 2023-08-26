@@ -3,10 +3,10 @@ import { useEffect } from 'react';
 
 const Die = (prop) => {
 
-    const {value} = prop;
+    const {id, value, isHeld, holdDice} = prop;
 
     return ( 
-        <div className="dice">
+        <div className={isHeld ? "dice click" : "dice" } onClick={holdDice}>
             <h2>{value}</h2>
         </div>
     )
