@@ -4,7 +4,7 @@
 
 Tenzies is a simple game built using Vite and React where the objective is to match all the emojis.
 
-[Play Now](https://jhean-tenzies.netlify.app/)
+## [Play Now](https://jhean-tenzies.netlify.app/){:target="_blank"}
 
 ## How to Play
 
